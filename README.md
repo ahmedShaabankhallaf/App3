@@ -1,1 +1,1 @@
-![Optional Text](./1.jpeg)
+![Optional Text](./1)
